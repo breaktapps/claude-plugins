@@ -1,0 +1,28 @@
+{
+  "name": "breaktapps-plugins",
+  "owner": {
+    "name": "BreaktApps"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by BreaktApps",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "claude-token-saver",
+      "source": {
+        "source": "github",
+        "repo": "breaktapps/claude-token-saver"
+      },
+      "description": "Semantic code search that reduces token consumption by 70-90% during code exploration",
+      "version": "0.1.0",
+      "author": {
+        "name": "BreaktApps"
+      },
+      "category": "productivity",
+      "keywords": ["token-savings", "semantic-search", "code-exploration", "vector-search"],
+      "homepage": "https://github.com/breaktapps/claude-token-saver",
+      "license": "MIT"
+    }
+  ]
+}
