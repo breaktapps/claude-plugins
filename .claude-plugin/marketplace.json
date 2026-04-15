@@ -15,7 +15,7 @@
         "repo": "breaktapps/claude-token-saver"
       },
       "description": "Semantic code search that reduces token consumption by 70-90% during code exploration",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "author": {
         "name": "BreaktApps"
       },
