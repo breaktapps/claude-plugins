@@ -15,12 +15,17 @@
         "repo": "breaktapps/claude-token-saver"
       },
       "description": "Semantic code search that reduces token consumption by 70-90% during code exploration",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "author": {
         "name": "BreaktApps"
       },
       "category": "productivity",
-      "keywords": ["token-savings", "semantic-search", "code-exploration", "vector-search"],
+      "keywords": [
+        "token-savings",
+        "semantic-search",
+        "code-exploration",
+        "vector-search"
+      ],
       "homepage": "https://github.com/breaktapps/claude-token-saver",
       "license": "MIT"
     }

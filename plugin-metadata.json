@@ -1,14 +1,24 @@
 {
   "id": "claude-token-saver",
   "name": "Claude Token Saver",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": "breaktapps",
   "description": "Semantic code search MCP plugin for Claude Code. Reduces token consumption by 70-90% during code exploration by replacing grep/cat cascading with vector search that returns only relevant chunks.",
   "homepage": "https://github.com/breaktapps/claude-token-saver",
   "repository": "https://github.com/breaktapps/claude-token-saver",
   "license": "MIT",
-  "categories": ["productivity", "code-search", "mcp"],
-  "keywords": ["token-savings", "semantic-search", "code-exploration", "vector-search", "embeddings"],
+  "categories": [
+    "productivity",
+    "code-search",
+    "mcp"
+  ],
+  "keywords": [
+    "token-savings",
+    "semantic-search",
+    "code-exploration",
+    "vector-search",
+    "embeddings"
+  ],
   "requires": {
     "python": ">=3.11",
     "uv": ">=0.4.0"
